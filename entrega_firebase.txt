@@ -1,0 +1,22 @@
+DISTRIBUCIÓN DE APK CON FIREBASE APP DISTRIBUTION
+
+Repositorio GitHub:
+https://github.com/Esteban-42/distribucion_de_apk_con_firebase
+
+Firebase App Distribution:
+https://console.firebase.google.com/u/0/project/distribuciondeapk-con-firebase/appdistribution/app/android:com.example.distribucion_de_apk_con_firebase/releases?utm_source=
+
+VERSIONES PUBLICADAS
+
+Versión 1.0.0 (Build 1)
+Primera versión de prueba de la aplicación Flutter.
+Cambios: generación inicial del APK Release y preparación para pruebas funcionales.
+Fecha: 2 de noviembre de 2026.
+
+Versión 1.0.1 (Build 2)
+Actualización incremental de la aplicación.
+Cambios: incremento del versionName y versionCode para validar el proceso de actualización.
+Fecha: 2 de noviembre de 2026.
+
+Grupo de testers: QA_Clase
+Tester solicitado: dduran@uceva.edu.co
